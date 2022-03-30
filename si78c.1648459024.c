@@ -7,10 +7,10 @@
 #include <stdio.h>
 #include <stdarg.h>
 #include <stdlib.h>
-//#include <ucontext.h>
+#include <ucontext.h>
 #include <stdint.h>
 #include <assert.h>
-//#include <SDL.h>
+#include <SDL.h>
 #include <assert.h>
 #include <string.h>
 
